@@ -116,7 +116,7 @@ const Footer = () => {
                   href="/contact"
                   className="text-muted-foreground hover:text-primary"
                 >
-                  Зв'язатися з нами
+                  {`Зв'язатися з нами`}
                 </Link>
               </li>
               <li>

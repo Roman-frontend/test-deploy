@@ -170,7 +170,7 @@ export default function Home() {
           <div className="flex flex-col sm:flex-row justify-center gap-4">
             <Button asChild>
               {/* <Button size="lg" asChild variant="secondary"> */}
-              <Link href="/contact">Зв'язатися з нами</Link>
+              <Link href="/contact">{`Зв'язатися з нами`}</Link>
             </Button>
             <Button asChild>
               {/* <Button size="lg" asChild> */}
